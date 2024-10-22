@@ -2,6 +2,7 @@
   <div>
     <img src="http://138.2.138.250:8080/logo.png">
   </div>
+</div>
 
 <p align="center">
   🔥 <a href="https://amnesia333.store/" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download</a> 🔥
